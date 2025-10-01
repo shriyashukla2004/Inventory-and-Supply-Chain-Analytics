@@ -2,9 +2,16 @@
 
 Developed a comprehensive Power BI dashboard to analyze and optimize inventory and supply chain operations. The project covers everything from data cleaning to advanced reporting, enabling better decision-making for stock management, supplier performance, and logistics efficiency.
 
+
 **🚀 Project Overview**
 
 The dashboard simulates real-world supply chain operations and provides actionable insights for procurement and operations teams. It highlights inventory health, supplier reliability, and logistics KPIs while also enabling demand forecasting for proactive decision-making.
+
+
+**📊 Dashboard Overview**
+
+<img width="1142" height="637" alt="Screenshot 2025-10-01 230304" src="https://github.com/user-attachments/assets/6da07e85-9858-4c36-8384-1506326f1fe5" />
+
 
 
 **🔑 Key Contributions**
